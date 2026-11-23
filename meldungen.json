@@ -1,12 +1,12 @@
 {
- "stand": "2026-11-23T18:53:54.525Z",
+ "stand": "2026-11-23T19:01:17.625Z",
  "quelle": "SEC EDGAR 13F",
  "meldungen": [
   {
    "id": "buffett-2026-11-16-060505104",
    "investor": "buffett",
    "datum": "2026-11-16",
-   "firma": "Bank Of Amer",
+   "firma": "Bank Of America",
    "kuerzel": "BOA",
    "branche": "",
    "art": "weniger",
@@ -29,7 +29,7 @@
    "investor": "buffett",
    "datum": "2026-11-16",
    "firma": "Kroger",
-   "kuerzel": "K",
+   "kuerzel": "KRO",
    "branche": "",
    "art": "weniger",
    "anteil": 0.007,
@@ -40,7 +40,7 @@
    "investor": "buffett",
    "datum": "2026-11-16",
    "firma": "Lennar",
-   "kuerzel": "L",
+   "kuerzel": "LEN",
    "branche": "",
    "art": "mehr",
    "anteil": 0.007,
@@ -51,7 +51,7 @@
    "investor": "buffett",
    "datum": "2026-11-16",
    "firma": "Verisign",
-   "kuerzel": "V",
+   "kuerzel": "VER",
    "branche": "",
    "art": "weniger",
    "anteil": 0.005,
@@ -84,7 +84,7 @@
    "investor": "buffett",
    "datum": "2026-11-16",
    "firma": "Nucor",
-   "kuerzel": "N",
+   "kuerzel": "NUC",
    "branche": "",
    "art": "weniger",
    "anteil": 0.001,
@@ -95,7 +95,7 @@
    "investor": "buffett",
    "datum": "2026-11-16",
    "firma": "Lennar",
-   "kuerzel": "L",
+   "kuerzel": "LEN",
    "branche": "",
    "art": "mehr",
    "anteil": 0,
@@ -128,7 +128,7 @@
    "investor": "burry",
    "datum": "2025-11-03",
    "firma": "Slm",
-   "kuerzel": "S",
+   "kuerzel": "SLM",
    "branche": "",
    "art": "neu",
    "anteil": 0.195,
@@ -139,7 +139,7 @@
    "investor": "burry",
    "datum": "2025-11-03",
    "firma": "Bruker",
-   "kuerzel": "B",
+   "kuerzel": "BRU",
    "branche": "",
    "art": "neu",
    "anteil": 0.193,
@@ -150,7 +150,7 @@
    "investor": "burry",
    "datum": "2025-11-03",
    "firma": "Bruker",
-   "kuerzel": "B",
+   "kuerzel": "BRU",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/"
@@ -170,7 +170,7 @@
    "investor": "burry",
    "datum": "2025-11-03",
    "firma": "Mercadolibre",
-   "kuerzel": "M",
+   "kuerzel": "MER",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/"
@@ -200,7 +200,7 @@
    "investor": "ackman",
    "datum": "2026-05-15",
    "firma": "Amazon",
-   "kuerzel": "A",
+   "kuerzel": "AMA",
    "branche": "",
    "art": "mehr",
    "anteil": 0.174,
@@ -211,7 +211,7 @@
    "investor": "ackman",
    "datum": "2026-05-15",
    "firma": "Microsoft",
-   "kuerzel": "M",
+   "kuerzel": "MIC",
    "branche": "",
    "art": "neu",
    "anteil": 0.153,
@@ -222,7 +222,7 @@
    "investor": "ackman",
    "datum": "2026-05-15",
    "firma": "Alphabet",
-   "kuerzel": "A",
+   "kuerzel": "ALP",
    "branche": "",
    "art": "weniger",
    "anteil": 0.007,
@@ -233,7 +233,7 @@
    "investor": "ackman",
    "datum": "2026-05-15",
    "firma": "Alphabet",
-   "kuerzel": "A",
+   "kuerzel": "ALP",
    "branche": "",
    "art": "weniger",
    "anteil": 0.001,
@@ -243,8 +243,8 @@
    "id": "ackman-2026-05-15-43300A203",
    "investor": "ackman",
    "datum": "2026-05-15",
-   "firma": "Hilton Worldwide Hldgs",
-   "kuerzel": "HWH",
+   "firma": "Hilton Worldwide",
+   "kuerzel": "HW",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1336528/000117266126002336/"
@@ -253,8 +253,8 @@
    "id": "druckenmiller-2026-11-16-G7997R103",
    "investor": "druckenmiller",
    "datum": "2026-11-16",
-   "firma": "Seagate Technology Hldngs Pl",
-   "kuerzel": "STH",
+   "firma": "Seagate Technology",
+   "kuerzel": "ST",
    "branche": "",
    "art": "mehr",
    "anteil": 0.076,
@@ -265,7 +265,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Amazon",
-   "kuerzel": "A",
+   "kuerzel": "AMA",
    "branche": "",
    "art": "mehr",
    "anteil": 0.046,
@@ -276,7 +276,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Fox",
-   "kuerzel": "F",
+   "kuerzel": "FOX",
    "branche": "",
    "art": "mehr",
    "anteil": 0.046,
@@ -309,7 +309,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Sea",
-   "kuerzel": "S",
+   "kuerzel": "SEA",
    "branche": "",
    "art": "mehr",
    "anteil": 0.037,
@@ -320,7 +320,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Insmed",
-   "kuerzel": "I",
+   "kuerzel": "INS",
    "branche": "",
    "art": "weniger",
    "anteil": 0.03,
@@ -352,8 +352,8 @@
    "id": "druckenmiller-2026-11-16-861012102",
    "investor": "druckenmiller",
    "datum": "2026-11-16",
-   "firma": "Stmicroelectronics N V",
-   "kuerzel": "SNV",
+   "firma": "Stmicroelectronics",
+   "kuerzel": "STM",
    "branche": "",
    "art": "weniger",
    "anteil": 0.021,
@@ -375,7 +375,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Cdw",
-   "kuerzel": "C",
+   "kuerzel": "CDW",
    "branche": "",
    "art": "weniger",
    "anteil": 0.018,
@@ -397,7 +397,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Newmont",
-   "kuerzel": "N",
+   "kuerzel": "NEW",
    "branche": "",
    "art": "neu",
    "anteil": 0.011,
@@ -452,7 +452,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Applovin",
-   "kuerzel": "A",
+   "kuerzel": "APP",
    "branche": "",
    "art": "neu",
    "anteil": 0.008,
@@ -485,7 +485,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Daktronics",
-   "kuerzel": "D",
+   "kuerzel": "DAK",
    "branche": "",
    "art": "mehr",
    "anteil": 0.008,
@@ -496,7 +496,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Fluor",
-   "kuerzel": "F",
+   "kuerzel": "FLU",
    "branche": "",
    "art": "weniger",
    "anteil": 0.008,
@@ -529,7 +529,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Humana",
-   "kuerzel": "H",
+   "kuerzel": "HUM",
    "branche": "",
    "art": "neu",
    "anteil": 0.006,
@@ -628,7 +628,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Crh",
-   "kuerzel": "C",
+   "kuerzel": "CRH",
    "branche": "",
    "art": "weniger",
    "anteil": 0.003,
@@ -671,8 +671,8 @@
    "id": "druckenmiller-2026-11-16-87162W100",
    "investor": "druckenmiller",
    "datum": "2026-11-16",
-   "firma": "Td Synnex Corporation",
-   "kuerzel": "TSC",
+   "firma": "Td Synnex",
+   "kuerzel": "TS",
    "branche": "",
    "art": "neu",
    "anteil": 0.003,
@@ -705,7 +705,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Mks",
-   "kuerzel": "M",
+   "kuerzel": "MKS",
    "branche": "",
    "art": "neu",
    "anteil": 0.002,
@@ -790,7 +790,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Alcoa",
-   "kuerzel": "A",
+   "kuerzel": "ALC",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
@@ -800,7 +800,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Alphabet",
-   "kuerzel": "A",
+   "kuerzel": "ALP",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
@@ -809,8 +809,8 @@
    "id": "druckenmiller-2026-11-16-042068205",
    "investor": "druckenmiller",
    "datum": "2026-11-16",
-   "firma": "Arm Holdings",
-   "kuerzel": "AH",
+   "firma": "Arm",
+   "kuerzel": "ARM",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
@@ -820,7 +820,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Baidu",
-   "kuerzel": "B",
+   "kuerzel": "BAI",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
@@ -840,7 +840,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Carvana",
-   "kuerzel": "C",
+   "kuerzel": "CAR",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
@@ -860,7 +860,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Cleveland-Cliffs",
-   "kuerzel": "C",
+   "kuerzel": "CLE",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
@@ -880,7 +880,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Danaher",
-   "kuerzel": "D",
+   "kuerzel": "DAN",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
@@ -910,7 +910,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Entegris",
-   "kuerzel": "E",
+   "kuerzel": "ENT",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
@@ -920,7 +920,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Equinix",
-   "kuerzel": "E",
+   "kuerzel": "EQU",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
@@ -930,7 +930,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "F5",
-   "kuerzel": "F",
+   "kuerzel": "F5",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
@@ -1000,7 +1000,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Linde",
-   "kuerzel": "L",
+   "kuerzel": "LIN",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
@@ -1050,7 +1050,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Rambus",
-   "kuerzel": "R",
+   "kuerzel": "RAM",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
@@ -1060,7 +1060,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Reddit",
-   "kuerzel": "R",
+   "kuerzel": "RED",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
@@ -1070,7 +1070,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Sandisk",
-   "kuerzel": "S",
+   "kuerzel": "SAN",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
@@ -1119,8 +1119,8 @@
    "id": "druckenmiller-2026-11-16-910047109",
    "investor": "druckenmiller",
    "datum": "2026-11-16",
-   "firma": "United Airls Hldgs",
-   "kuerzel": "UAH",
+   "firma": "United Airls",
+   "kuerzel": "UA",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
@@ -1129,8 +1129,8 @@
    "id": "druckenmiller-2026-11-16-91823B109",
    "investor": "druckenmiller",
    "datum": "2026-11-16",
-   "firma": "Uwm Holdings Corporation",
-   "kuerzel": "UHC",
+   "firma": "Uwm",
+   "kuerzel": "UWM",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
@@ -1150,7 +1150,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Wabtec",
-   "kuerzel": "W",
+   "kuerzel": "WAB",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
@@ -1170,7 +1170,7 @@
    "investor": "druckenmiller",
    "datum": "2026-11-16",
    "firma": "Woodward",
-   "kuerzel": "W",
+   "kuerzel": "WOO",
    "branche": "",
    "art": "verkauft",
    "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
@@ -1189,8 +1189,8 @@
    "id": "lilu-2026-11-16-722304102",
    "investor": "lilu",
    "datum": "2026-11-16",
-   "firma": "Pdd Holdings",
-   "kuerzel": "PH",
+   "firma": "Pdd",
+   "kuerzel": "PDD",
    "branche": "",
    "art": "mehr",
    "anteil": 0.242,
@@ -1219,20 +1219,20 @@
     "anteil": 0.15
    },
    {
+    "firma": "Alphabet",
+    "anteil": 0.12
+   },
+   {
     "firma": "Coca Cola",
     "anteil": 0.11
    },
    {
-    "firma": "Alphabet",
-    "anteil": 0.09
-   },
-   {
-    "firma": "Bank Of Amer",
+    "firma": "Bank Of America",
     "anteil": 0.08
    },
    {
     "firma": "Weitere",
-    "anteil": 0.32
+    "anteil": 0.29
    }
   ],
   "burry": [
@@ -1285,15 +1285,15 @@
     "anteil": 0.31
    },
    {
-    "firma": "Seagate Technology Hldngs Pl",
+    "firma": "Seagate Technology",
     "anteil": 0.08
    },
    {
-    "firma": "Amazon",
+    "firma": "Fox",
     "anteil": 0.05
    },
    {
-    "firma": "Fox",
+    "firma": "Amazon",
     "anteil": 0.05
    },
    {
@@ -1307,16 +1307,12 @@
   ],
   "lilu": [
    {
-    "firma": "Pdd Holdings",
+    "firma": "Alphabet",
+    "anteil": 0.45
+   },
+   {
+    "firma": "Pdd",
     "anteil": 0.24
-   },
-   {
-    "firma": "Alphabet",
-    "anteil": 0.23
-   },
-   {
-    "firma": "Alphabet",
-    "anteil": 0.22
    },
    {
     "firma": "Berkshire Hathaway",
@@ -1327,8 +1323,12 @@
     "anteil": 0.09
    },
    {
+    "firma": "Tencent Music Entertainm",
+    "anteil": 0.03
+   },
+   {
     "firma": "Weitere",
-    "anteil": 0.07
+    "anteil": 0.04
    }
   ]
  },
