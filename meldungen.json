@@ -1,0 +1,1336 @@
+{
+ "stand": "2026-11-23T18:53:54.525Z",
+ "quelle": "SEC EDGAR 13F",
+ "meldungen": [
+  {
+   "id": "buffett-2026-11-16-060505104",
+   "investor": "buffett",
+   "datum": "2026-11-16",
+   "firma": "Bank Of Amer",
+   "kuerzel": "BOA",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.082,
+   "link": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463399/"
+  },
+  {
+   "id": "buffett-2026-11-16-247361702",
+   "investor": "buffett",
+   "datum": "2026-11-16",
+   "firma": "Delta Air Lines",
+   "kuerzel": "DAL",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.018,
+   "link": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463399/"
+  },
+  {
+   "id": "buffett-2026-11-16-501044101",
+   "investor": "buffett",
+   "datum": "2026-11-16",
+   "firma": "Kroger",
+   "kuerzel": "K",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.007,
+   "link": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463399/"
+  },
+  {
+   "id": "buffett-2026-11-16-526057104",
+   "investor": "buffett",
+   "datum": "2026-11-16",
+   "firma": "Lennar",
+   "kuerzel": "L",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.007,
+   "link": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463399/"
+  },
+  {
+   "id": "buffett-2026-11-16-92343E102",
+   "investor": "buffett",
+   "datum": "2026-11-16",
+   "firma": "Verisign",
+   "kuerzel": "V",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.005,
+   "link": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463399/"
+  },
+  {
+   "id": "buffett-2026-11-16-T19377109",
+   "investor": "buffett",
+   "datum": "2026-11-16",
+   "firma": "Bending Spoons Spa",
+   "kuerzel": "BSS",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.002,
+   "link": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463399/"
+  },
+  {
+   "id": "buffett-2026-11-16-14040H105",
+   "investor": "buffett",
+   "datum": "2026-11-16",
+   "firma": "Capital One Finl",
+   "kuerzel": "COF",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.001,
+   "link": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463399/"
+  },
+  {
+   "id": "buffett-2026-11-16-670346105",
+   "investor": "buffett",
+   "datum": "2026-11-16",
+   "firma": "Nucor",
+   "kuerzel": "N",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.001,
+   "link": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463399/"
+  },
+  {
+   "id": "buffett-2026-11-16-526057302",
+   "investor": "buffett",
+   "datum": "2026-11-16",
+   "firma": "Lennar",
+   "kuerzel": "L",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0,
+   "link": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463399/"
+  },
+  {
+   "id": "burry-2025-11-03-60855R100",
+   "investor": "burry",
+   "datum": "2025-11-03",
+   "firma": "Molina Healthcare",
+   "kuerzel": "MH",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.351,
+   "link": "https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/"
+  },
+  {
+   "id": "burry-2025-11-03-550021109",
+   "investor": "burry",
+   "datum": "2025-11-03",
+   "firma": "Lululemon Athletica",
+   "kuerzel": "LA",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.261,
+   "link": "https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/"
+  },
+  {
+   "id": "burry-2025-11-03-78442P106",
+   "investor": "burry",
+   "datum": "2025-11-03",
+   "firma": "Slm",
+   "kuerzel": "S",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.195,
+   "link": "https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/"
+  },
+  {
+   "id": "burry-2025-11-03-116794207",
+   "investor": "burry",
+   "datum": "2025-11-03",
+   "firma": "Bruker",
+   "kuerzel": "B",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.193,
+   "link": "https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/"
+  },
+  {
+   "id": "burry-2025-11-03-116794108",
+   "investor": "burry",
+   "datum": "2025-11-03",
+   "firma": "Bruker",
+   "kuerzel": "B",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/"
+  },
+  {
+   "id": "burry-2025-11-03-518439104",
+   "investor": "burry",
+   "datum": "2025-11-03",
+   "firma": "Lauder Estee Cos",
+   "kuerzel": "LEC",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/"
+  },
+  {
+   "id": "burry-2025-11-03-58733R102",
+   "investor": "burry",
+   "datum": "2025-11-03",
+   "firma": "Mercadolibre",
+   "kuerzel": "M",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/"
+  },
+  {
+   "id": "burry-2025-11-03-75886F107",
+   "investor": "burry",
+   "datum": "2025-11-03",
+   "firma": "Regeneron Pharmaceuticals",
+   "kuerzel": "RP",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/"
+  },
+  {
+   "id": "burry-2025-11-03-91324P102",
+   "investor": "burry",
+   "datum": "2025-11-03",
+   "firma": "Unitedhealth Group",
+   "kuerzel": "UG",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/"
+  },
+  {
+   "id": "ackman-2026-05-15-023135106",
+   "investor": "ackman",
+   "datum": "2026-05-15",
+   "firma": "Amazon",
+   "kuerzel": "A",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.174,
+   "link": "https://www.sec.gov/Archives/edgar/data/1336528/000117266126002336/"
+  },
+  {
+   "id": "ackman-2026-05-15-594918104",
+   "investor": "ackman",
+   "datum": "2026-05-15",
+   "firma": "Microsoft",
+   "kuerzel": "M",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.153,
+   "link": "https://www.sec.gov/Archives/edgar/data/1336528/000117266126002336/"
+  },
+  {
+   "id": "ackman-2026-05-15-02079K107",
+   "investor": "ackman",
+   "datum": "2026-05-15",
+   "firma": "Alphabet",
+   "kuerzel": "A",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.007,
+   "link": "https://www.sec.gov/Archives/edgar/data/1336528/000117266126002336/"
+  },
+  {
+   "id": "ackman-2026-05-15-02079K305",
+   "investor": "ackman",
+   "datum": "2026-05-15",
+   "firma": "Alphabet",
+   "kuerzel": "A",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.001,
+   "link": "https://www.sec.gov/Archives/edgar/data/1336528/000117266126002336/"
+  },
+  {
+   "id": "ackman-2026-05-15-43300A203",
+   "investor": "ackman",
+   "datum": "2026-05-15",
+   "firma": "Hilton Worldwide Hldgs",
+   "kuerzel": "HWH",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1336528/000117266126002336/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-G7997R103",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Seagate Technology Hldngs Pl",
+   "kuerzel": "STH",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.076,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-023135106",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Amazon",
+   "kuerzel": "A",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.046,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-35137L105",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Fox",
+   "kuerzel": "F",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.046,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-984245100",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Ypf Sociedad Anonima",
+   "kuerzel": "YSA",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.043,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-91332U101",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Unity Software",
+   "kuerzel": "US",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.039,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-81141R100",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Sea",
+   "kuerzel": "S",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.037,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-457669307",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Insmed",
+   "kuerzel": "I",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.03,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-76155X100",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Revolution Medicines",
+   "kuerzel": "RM",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.022,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-G0896C103",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Bbb Foods",
+   "kuerzel": "BF",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.021,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-861012102",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Stmicroelectronics N V",
+   "kuerzel": "SNV",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.021,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-N62509109",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Newamsterdam Pharma Company",
+   "kuerzel": "NPC",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.02,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-12514G108",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Cdw",
+   "kuerzel": "C",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.018,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-88023U101",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Somnigroup International",
+   "kuerzel": "SI",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.015,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-651639106",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Newmont",
+   "kuerzel": "N",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.011,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-008474108",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Agnico Eagle Mines",
+   "kuerzel": "AEM",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.01,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-06849F108",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Barrick Mng",
+   "kuerzel": "BM",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.01,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-G11448100",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Bitdeer Technologies Group",
+   "kuerzel": "BTG",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.01,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-958102105",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Western Digital",
+   "kuerzel": "WD",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.009,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-03831W108",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Applovin",
+   "kuerzel": "A",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.008,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-149568107",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Cavco Inds",
+   "kuerzel": "CI",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.008,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-830830105",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Champion Homes",
+   "kuerzel": "CH",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.008,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-234264109",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Daktronics",
+   "kuerzel": "D",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.008,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-343412102",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Fluor",
+   "kuerzel": "F",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.008,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-84615Q103",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Space Exploration Techn",
+   "kuerzel": "SET",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.007,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-87305R109",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Ttm Technologies",
+   "kuerzel": "TT",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.007,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-444859102",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Humana",
+   "kuerzel": "H",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.006,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-76243J105",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Rhythm Pharmaceuticals",
+   "kuerzel": "RP",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.006,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-000899104",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Adma Biologics",
+   "kuerzel": "AB",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.005,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-07373V105",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Beam Therapeutics",
+   "kuerzel": "BT",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.004,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-N4732M103",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Jbs N.V.",
+   "kuerzel": "JN",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.004,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-69608A108",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Palantir Technologies",
+   "kuerzel": "PT",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.004,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-75943R102",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Relay Therapeutics",
+   "kuerzel": "RT",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.004,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-767292105",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Riot Platforms",
+   "kuerzel": "RP",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.004,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-874039100",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Taiwan Semiconductor Manufac",
+   "kuerzel": "TSM",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.004,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-G25508105",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Crh",
+   "kuerzel": "C",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.003,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-45765U103",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Insight Enterprises",
+   "kuerzel": "IE",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.003,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-67080N101",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Nuvation Bio",
+   "kuerzel": "NB",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.003,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-697435105",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Palo Alto Networks",
+   "kuerzel": "PAN",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.003,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-87162W100",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Td Synnex Corporation",
+   "kuerzel": "TSC",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.003,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-19240Q201",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Cogent Biosciences",
+   "kuerzel": "CB",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.002,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-23255M303",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Korsana Biosciences",
+   "kuerzel": "KB",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.002,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-55306N104",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Mks",
+   "kuerzel": "M",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.002,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-532457108",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Eli Lilly &Amp;",
+   "kuerzel": "EL&",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0.001,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-61559X104",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Moonlake Immunotherapeutics",
+   "kuerzel": "MI",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0.001,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-23306J309",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Dbv Technologies S A",
+   "kuerzel": "DTS",
+   "branche": "",
+   "art": "weniger",
+   "anteil": 0,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-94352A104",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Wave Life Sciences",
+   "kuerzel": "WLS",
+   "branche": "",
+   "art": "neu",
+   "anteil": 0,
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-88025U109",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "10x Genomics",
+   "kuerzel": "1G",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-007903107",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Advanced Micro Devices",
+   "kuerzel": "AMD",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-00835Q202",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Aeva Technologies",
+   "kuerzel": "AT",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-013872106",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Alcoa",
+   "kuerzel": "A",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-02079K305",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Alphabet",
+   "kuerzel": "A",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-042068205",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Arm Holdings",
+   "kuerzel": "AH",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-056752108",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Baidu",
+   "kuerzel": "B",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-142152107",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Caris Life Sciences",
+   "kuerzel": "CLS",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-146869102",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Carvana",
+   "kuerzel": "C",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-12510Q100",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Ccc Intelligent Solutions Hl",
+   "kuerzel": "CIS",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-185899101",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Cleveland-Cliffs",
+   "kuerzel": "C",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-23331A109",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "D R Horton",
+   "kuerzel": "DRH",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-235851102",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Danaher",
+   "kuerzel": "D",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-24477V105",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Definium Therapeutics",
+   "kuerzel": "DT",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-247361702",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Delta Air Lines",
+   "kuerzel": "DAL",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-29362U104",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Entegris",
+   "kuerzel": "E",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-29444U700",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Equinix",
+   "kuerzel": "E",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-315616102",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "F5",
+   "kuerzel": "F",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-G3730V105",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Ftai Aviation",
+   "kuerzel": "FA",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-37950E259",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Global X Fds",
+   "kuerzel": "GXF",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-399909100",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Grupo Financiero Galicia S.A",
+   "kuerzel": "GFG",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-44812J104",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Hut 8",
+   "kuerzel": "H8",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-Q4982L109",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Iren Limited",
+   "kuerzel": "IL",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-512807306",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Lam Research",
+   "kuerzel": "LR",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-G54950103",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Linde",
+   "kuerzel": "L",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-61225M102",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Monte Rosa Therapeutics",
+   "kuerzel": "MRT",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-63942X106",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Navitas Semiconductor",
+   "kuerzel": "NS",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-74366E102",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Protagonist Therapeutics",
+   "kuerzel": "PT",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-74743L100",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Qnity Electronics",
+   "kuerzel": "QE",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-750917106",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Rambus",
+   "kuerzel": "R",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-75734B100",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Reddit",
+   "kuerzel": "R",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-80004C200",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Sandisk",
+   "kuerzel": "S",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-83443Q103",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Solstice Advanced Matls",
+   "kuerzel": "SAM",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-84265V105",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Southern Copper",
+   "kuerzel": "SC",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-881624209",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Teva Pharmaceutical Inds",
+   "kuerzel": "TPI",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-883556102",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Thermo Fisher Scientific",
+   "kuerzel": "TFS",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-910047109",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "United Airls Hldgs",
+   "kuerzel": "UAH",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-91823B109",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Uwm Holdings Corporation",
+   "kuerzel": "UHC",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-92837L109",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Vista Energy S.A.B. De C.V.",
+   "kuerzel": "VES",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-929740108",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Wabtec",
+   "kuerzel": "W",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-Y95308105",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Wave Life Sciences",
+   "kuerzel": "WLS",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-980745103",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Woodward",
+   "kuerzel": "W",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "druckenmiller-2026-11-16-98420N105",
+   "investor": "druckenmiller",
+   "datum": "2026-11-16",
+   "firma": "Xenon Pharmaceuticals",
+   "kuerzel": "XP",
+   "branche": "",
+   "art": "verkauft",
+   "link": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/"
+  },
+  {
+   "id": "lilu-2026-11-16-722304102",
+   "investor": "lilu",
+   "datum": "2026-11-16",
+   "firma": "Pdd Holdings",
+   "kuerzel": "PH",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.242,
+   "link": "https://www.sec.gov/Archives/edgar/data/1709323/000204358526000030/"
+  },
+  {
+   "id": "lilu-2026-11-16-88034P109",
+   "investor": "lilu",
+   "datum": "2026-11-16",
+   "firma": "Tencent Music Entertainm",
+   "kuerzel": "TME",
+   "branche": "",
+   "art": "mehr",
+   "anteil": 0.031,
+   "link": "https://www.sec.gov/Archives/edgar/data/1709323/000204358526000030/"
+  }
+ ],
+ "depots": {
+  "buffett": [
+   {
+    "firma": "Apple",
+    "anteil": 0.25
+   },
+   {
+    "firma": "American Express",
+    "anteil": 0.15
+   },
+   {
+    "firma": "Coca Cola",
+    "anteil": 0.11
+   },
+   {
+    "firma": "Alphabet",
+    "anteil": 0.09
+   },
+   {
+    "firma": "Bank Of Amer",
+    "anteil": 0.08
+   },
+   {
+    "firma": "Weitere",
+    "anteil": 0.32
+   }
+  ],
+  "burry": [
+   {
+    "firma": "Molina Healthcare",
+    "anteil": 0.35
+   },
+   {
+    "firma": "Lululemon Athletica",
+    "anteil": 0.26
+   },
+   {
+    "firma": "Slm",
+    "anteil": 0.2
+   },
+   {
+    "firma": "Bruker",
+    "anteil": 0.19
+   }
+  ],
+  "ackman": [
+   {
+    "firma": "Brookfield",
+    "anteil": 0.18
+   },
+   {
+    "firma": "Amazon",
+    "anteil": 0.17
+   },
+   {
+    "firma": "Uber Technologies",
+    "anteil": 0.16
+   },
+   {
+    "firma": "Microsoft",
+    "anteil": 0.15
+   },
+   {
+    "firma": "Restaurant Brands Intl",
+    "anteil": 0.12
+   },
+   {
+    "firma": "Weitere",
+    "anteil": 0.22
+   }
+  ],
+  "druckenmiller": [
+   {
+    "firma": "Natera",
+    "anteil": 0.31
+   },
+   {
+    "firma": "Seagate Technology Hldngs Pl",
+    "anteil": 0.08
+   },
+   {
+    "firma": "Amazon",
+    "anteil": 0.05
+   },
+   {
+    "firma": "Fox",
+    "anteil": 0.05
+   },
+   {
+    "firma": "Ypf Sociedad Anonima",
+    "anteil": 0.04
+   },
+   {
+    "firma": "Weitere",
+    "anteil": 0.47
+   }
+  ],
+  "lilu": [
+   {
+    "firma": "Pdd Holdings",
+    "anteil": 0.24
+   },
+   {
+    "firma": "Alphabet",
+    "anteil": 0.23
+   },
+   {
+    "firma": "Alphabet",
+    "anteil": 0.22
+   },
+   {
+    "firma": "Berkshire Hathaway",
+    "anteil": 0.15
+   },
+   {
+    "firma": "East West Bancorp",
+    "anteil": 0.09
+   },
+   {
+    "firma": "Weitere",
+    "anteil": 0.07
+   }
+  ]
+ },
+ "fehler": []
+}
